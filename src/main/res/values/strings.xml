@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">L0ST OR FOUND</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Lost or Found</string>
+    <string name="nav_header_subtitle">Lost or Found</string>
+    <string name="Searchnew">Search here &#8230;</string>
+    <string name="btn_reg">REGISTER</string>
+    <string name="DOB">DOB</string>
+    <string name="edit">EDIT PROFILE</string>
+    <string name="hint_name">Item Name</string>
+    <string name="user_desc">More about Yourself &#8230;</string>
+    <string name="Uname">Username</string>
+    <string name="Npass">Change Password</string>
+    <string name="lost">Lost</string>
+    <string name="Info">No of attempts remaining: </string>
+    <string name="email">Email</string>
+    <string name="reset">RESET</string>
+    <string name="found">Found</string>
+    <string name="addItem">ADD ITEM</string>
+    <string name="hint_PASS2">Confirm password</string>
+    <string name="addPhoto">Add Photo</string>
+    <string name="hint_date">Date</string>
+    <string name="register">Not a Member?</string>
+    <string name="hint_location">Location</string>
+    <string name="hint_desc">Additional Information</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="status">Status</string>
+    <string name="hint_num">Phone Number</string>
+    <string name="radiofemale">Female</string>
+    <string name="submit">SUBMIT</string>
+    <string name="radiomale">Male</string>
+    <string name="title_activity_detail">activity_detail</string>
+    <string name="Choose">Choose</string>
+    <string name="reset_password">Forgot password?</string>
+    <string name="title_activity_upload">UploadActivity</string>
+    <string name="Search">Search Here &#8230;</string>
+    <string name="hint_password">Password</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="title_activity_my_start">MyStart</string>
+    <string name="title_activity_about">About</string>
+
+</resources>
